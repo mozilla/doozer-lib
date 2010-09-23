@@ -1,0 +1,30 @@
+[submodule "src/cache-panel"]
+	path = src/cache-panel
+	url = git://github.com/jbalogh/django-debug-cache-panel
+[submodule "src/check"]
+	path = src/check
+	url = git://github.com/jbalogh/check.git
+[submodule "src/django"]
+	path = src/django
+	url = git://github.com/django/django.git
+[submodule "src/django-cache-machine"]
+	path = src/django-cache-machine
+	url = git://github.com/jbalogh/django-cache-machine.git
+[submodule "src/django-debug-toolbar"]
+	path = src/django-debug-toolbar
+	url = git://github.com/robhudson/django-debug-toolbar.git
+[submodule "src/django-flatblocks"]
+	path = src/django-flatblocks
+	url = git://github.com/zerok/django-flatblocks.git
+[submodule "src/django-media-bundler"]
+	path = src/django-media-bundler
+	url = git://github.com/rnk/django-media-bundler.git
+[submodule "src/django-nose"]
+	path = src/django-nose
+	url = git://github.com/jbalogh/django-nose.git
+[submodule "src/schematic"]
+	path = src/schematic
+	url = git://github.com/jbalogh/schematic.git
+[submodule "src/test-utils"]
+	path = src/test-utils
+	url = git://github.com/jbalogh/test-utils.git
