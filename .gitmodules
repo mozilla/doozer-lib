@@ -28,3 +28,6 @@
 [submodule "src/test-utils"]
 	path = src/test-utils
 	url = git://github.com/jbalogh/test-utils.git
+[submodule "src/django-csp"]
+	path = src/django-csp
+	url = git://github.com/mozilla/django-csp.git
