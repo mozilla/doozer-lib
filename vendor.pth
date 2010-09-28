@@ -9,6 +9,7 @@ src/schematic
 src/django-media-bundler
 src/django-debug-toolbar
 src/django
+src/django-csp
 packages
 packages/sqlparse
 packages/django-registration
