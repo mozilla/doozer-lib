@@ -10,6 +10,7 @@ src/django-media-bundler
 src/django-debug-toolbar
 src/django
 src/django-csp
+src/templatetag-sugar
 packages
 packages/sqlparse
 packages/django-registration
