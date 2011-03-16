@@ -11,6 +11,8 @@ src/django-debug-toolbar
 src/django
 src/django-csp
 src/templatetag-sugar
+src/django-waffle
+src/django-extensions
 packages
 packages/sqlparse
 packages/django-registration

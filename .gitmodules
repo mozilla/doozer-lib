@@ -31,3 +31,9 @@
 [submodule "src/django-csp"]
 	path = src/django-csp
 	url = git://github.com/mozilla/django-csp.git
+[submodule "src/django-extensions"]
+	path = src/django-extensions
+	url = git://github.com/django-extensions/django-extensions.git
+[submodule "src/django-waffle"]
+	path = src/django-waffle
+	url = git://github.com/jsocol/django-waffle
